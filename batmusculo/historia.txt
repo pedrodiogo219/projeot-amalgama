@@ -6,3 +6,9 @@ Atrav�s de um "ifielse", ele conseguia saber que quando existia mais de tr�s
 pois um dia a lou�a ficou repleta de talheres e ele n�o cosneguia se livrar dela. 
 Analisando sua l�gica e perguntando para sua m�e, o nosso her�i conseguiu se adaptar e implementou que quando havia mais de 5 objetos na lou�a, ele deveria agir.
 Porem, ele nao sabia que sua propria mae era sua nemesis, e escravou-lo colocando em um "While(true)", obrigando ele a lavar a louca para sempre de novo mesmo que terminasse.
+
+Poderes:
+- Lavar a louça fazendo pronação de biceps
+- enxugar os talheres fazendo elevação lateral
+- Invocar o morcegomúsculo para enxugar a louça de forma mais rápida.
+- pegar 20000 kilos no supino com louça na barra
