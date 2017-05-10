@@ -1,2 +1,7 @@
-Esse herói teve os seus pais mortos por um fogão sujo enlouquecido.
-Depois disso, ele se revoltou e jurou combater todas as forças malígnas das cozinhas sujas.
+Esse herï¿½i teve os seus pais mortos por um fogï¿½o sujo enlouquecido.
+Depois disso, ele se revoltou e jurou combater todas as forï¿½as malï¿½gnas das cozinhas sujas.
+Sua mï¿½e se chamava RITA e trabalhava na area de Inteligencia artificial.Quando BatMusculo era crianï¿½a, ela o obrigava a estudar lï¿½gica para saber quando devia limpar
+a cozinha.
+Atravï¿½s de um "ifielse", ele conseguia saber que quando existia mais de trï¿½s panelas ,ele devia usar suas forï¿½as para tentar limpï¿½-las.Entretando essa lï¿½gica estï¿½ errada,
+pois um dia a louï¿½a ficou repleta de talheres e ele nï¿½o cosneguia se livrar dela. 
+Analisando sua lï¿½gica e perguntando para sua mï¿½e, o nosso herï¿½i conseguiu se adaptar e implementou que quando havia mais de 5 objetos na louï¿½a, ele deveria agir.
